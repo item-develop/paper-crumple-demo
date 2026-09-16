@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#2b5fc7"/>
+  <path d="M0,630 L420,180 L560,630 z" fill="#7ea0e6"/>
+  <path d="M420,180 L560,630 L780,300 z" fill="#f2f0e9"/>
+  <path d="M780,300 L560,630 L1200,630 L1200,420 z" fill="#1c2f5e"/>
+  <text x="70" y="150" font-family="Helvetica, Arial, sans-serif" font-size="104" font-weight="800" fill="#f2f0e9" letter-spacing="3">FOLD &amp; TOSS</text>
+  <text x="72" y="200" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#9db9ee" letter-spacing="8">PAPER AIRLINES</text>
+</svg>

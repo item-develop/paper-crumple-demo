@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#e0862f"/>
+  <g fill="#f6e8d8">
+    <circle cx="980" cy="150" r="70"/>
+    <circle cx="860" cy="240" r="46"/>
+    <circle cx="1040" cy="300" r="32"/>
+  </g>
+  <path d="M820,630 L1140,630 L1100,380 L860,380 z" fill="#1c1b18"/>
+  <path d="M845,410 h270 M865,450 h230 M885,490 h190" stroke="#e0862f" stroke-width="10" fill="none"/>
+  <text x="80" y="270" font-family="Helvetica, Arial, sans-serif" font-size="108" font-weight="800" fill="#1c1b18" letter-spacing="2">WASTEBASKET</text>
+  <text x="80" y="380" font-family="Helvetica, Arial, sans-serif" font-size="108" font-weight="800" fill="#f6e8d8" letter-spacing="2">CLUB</text>
+  <text x="82" y="440" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#1c1b18" letter-spacing="8">MISS EVERY SHOT TOGETHER</text>
+</svg>

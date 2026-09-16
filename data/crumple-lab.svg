@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#d63c30"/>
+  <g fill="none" stroke="#f6e8d8" stroke-width="7">
+    <path d="M140,180 q40,-70 100,-30 q60,-60 100,10 q80,-30 60,50 q60,50 -20,80 q0,70 -80,50 q-50,60 -100,0 q-90,10 -70,-70 q-60,-40 10,-90"/>
+  </g>
+  <text x="140" y="430" font-family="Helvetica, Arial, sans-serif" font-size="120" font-weight="800" fill="#f6e8d8" letter-spacing="2">CRUMPLE</text>
+  <text x="140" y="540" font-family="Helvetica, Arial, sans-serif" font-size="120" font-weight="800" fill="#1c1b18" letter-spacing="2">LAB</text>
+  <text x="1060" y="540" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#f6e8d8" text-anchor="end" letter-spacing="6" transform="rotate(-90 1060 540)">SINCE 2026</text>
+</svg>
